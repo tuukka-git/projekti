@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projekti/static/css/main.deffe4ec.chunk.css",
+    "main.js": "/projekti/static/js/main.6db4781c.chunk.js",
+    "main.js.map": "/projekti/static/js/main.6db4781c.chunk.js.map",
+    "runtime-main.js": "/projekti/static/js/runtime-main.6d7c7902.js",
+    "runtime-main.js.map": "/projekti/static/js/runtime-main.6d7c7902.js.map",
+    "static/css/2.658248ec.chunk.css": "/projekti/static/css/2.658248ec.chunk.css",
+    "static/js/2.e9d774fa.chunk.js": "/projekti/static/js/2.e9d774fa.chunk.js",
+    "static/js/2.e9d774fa.chunk.js.map": "/projekti/static/js/2.e9d774fa.chunk.js.map",
+    "static/js/3.da4c8180.chunk.js": "/projekti/static/js/3.da4c8180.chunk.js",
+    "static/js/3.da4c8180.chunk.js.map": "/projekti/static/js/3.da4c8180.chunk.js.map",
+    "index.html": "/projekti/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/projekti/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.deffe4ec.chunk.css.map": "/projekti/static/css/main.deffe4ec.chunk.css.map",
+    "static/js/2.e9d774fa.chunk.js.LICENSE.txt": "/projekti/static/js/2.e9d774fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d7c7902.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.e9d774fa.chunk.js",
+    "static/css/main.deffe4ec.chunk.css",
+    "static/js/main.6db4781c.chunk.js"
+  ]
+}
